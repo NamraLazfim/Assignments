@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="SVEC80OLlAU7bOeNKREV">
-    <mxGraphModel dx="1511" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
         <mxCell id="g4eLA316QA-96SX1d6KH-8" edge="1" parent="1" source="g4eLA316QA-96SX1d6KH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" target="g4eLA316QA-96SX1d6KH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-9ItDSqD4NPa8mM7vuRF-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="0 Super App" vertex="1">
+        <mxCell id="-9ItDSqD4NPa8mM7vuRF-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="0 GigNexus" vertex="1">
           <mxGeometry height="60" width="160" x="440" y="240" as="geometry" />
         </mxCell>
         <mxCell id="-9ItDSqD4NPa8mM7vuRF-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Login details / Profile data / Platform Integration details / Customer support request / Privacy settings / Gig request" vertex="1">
